@@ -1,8 +1,7 @@
 import React, { useState, useMemo } from "react";
 import {
   Building2, CalendarDays, MapPin, Users, IndianRupee, Sparkles,
-  ChevronRight, Check, Search, Bookmark, BookmarkCheck, ArrowLeft,
-  Instagram, Globe, Plus, X, LayoutDashboard, LogOut, TrendingUp,
+  ChevronRight, Check, Search, Bookmark, BookmarkCheck, ArrowLeft, Globe, Plus, X, LayoutDashboard, LogOut, TrendingUp,
 } from "lucide-react";
 
 /* ----------------------------------------------------------------------
