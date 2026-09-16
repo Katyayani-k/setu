@@ -1,5 +1,26 @@
-html,body,#root{margin:0;min-height:100%;width:100%;}
-*{box-sizing:border-box}
-body{background:#F5F5F1;color:#12182B}
-button,input,select,textarea{font:inherit}
-button{cursor:pointer}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  margin: 0;
+  min-height: 100%;
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #F5F5F1;
+  color: #12182B;
+}
+
+button, input, select, textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
